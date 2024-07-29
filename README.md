@@ -9,7 +9,7 @@ https://github.com/mlfoundations/dclm
 https://modelscope.cn/models/qwen/Qwen2-7B-Instruct  
 https://qwen.readthedocs.io/zh-cn/latest/
 ## GLM4
-https://modelscope.cn/models/ZhipuAI/glm-4-9b-chat
+https://modelscope.cn/models/ZhipuAI/glm-4-9b-chat  
 https://github.com/THUDM/GLM-4
 
 
